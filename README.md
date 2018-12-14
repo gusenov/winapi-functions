@@ -5,3 +5,8 @@
     - [NewWorkItem](task-scheduler/1/NewWorkItem/)
     - [SetApplicationName](task-scheduler/1/SetApplicationName/)
 
+# Headers
+
+- [synchapi.h](headers/synchapi-h)
+  - [CreateWaitableTimer](headers/synchapi-h/CreateWaitableTimer)
+
