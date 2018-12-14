@@ -9,4 +9,6 @@
 
 - [synchapi.h](headers/synchapi-h)
   - [CreateWaitableTimer](headers/synchapi-h/CreateWaitableTimer)
+- [winbase.h](headers/winbase-h)
+  - [SetSystemPowerState](headers/winbase-h/SetSystemPowerState)
 
