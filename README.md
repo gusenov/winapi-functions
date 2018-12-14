@@ -3,4 +3,5 @@
 - [Task Scheduler](task-scheduler/)
   - [1.0](task-scheduler/1)
     - [NewWorkItem](task-scheduler/1/NewWorkItem/)
+    - [SetApplicationName](task-scheduler/1/SetApplicationName/)
 
