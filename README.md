@@ -12,3 +12,7 @@
 - [winbase.h](headers/winbase-h)
   - [SetSystemPowerState](headers/winbase-h/SetSystemPowerState)
 
+# Windows
+
+- [Окно «убегающее от курсора» при его попадании на неклиентскую область окна](windows/run-win-cur)
+
